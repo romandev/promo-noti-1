@@ -1,0 +1,16 @@
+{
+  "country": {
+    "us": {
+      "url_list": {
+        "www.walmart.com": null,
+        "m.ebay.com": null,
+        "m.newegg.com": null,
+        "m.costco.com": null,
+        "www.iherb.com": null
+      },
+      "cooltime": "2",
+      "n_repeat": "5",
+      "introduction_page": "http://paytest.github.io/promo-noti/promotion_page/fallback_introduction_page.html"
+    }
+  }
+}

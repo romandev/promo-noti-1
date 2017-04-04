@@ -1,0 +1,18 @@
+{
+  "country": {
+    "us":{
+      "g950":{
+        "att": "https://paytest.github.io/promo-noti/reward/promos_dream_att.json",
+        "all": "https://paytest.github.io/promo-noti/reward/promos_dream.json"
+      },
+      "g955":{
+        "att": "https://paytest.github.io/promo-noti/reward/promos_dream_att.json",
+        "all": "https://paytest.github.io/promo-noti/reward/promos_dream.json"
+      },
+      "all":{
+        "att": "https://paytest.github.io/promo-noti/reward/promos_non_dream_att.json",
+        "all": "https://paytest.github.io/promo-noti/reward/promos_non_dream.json"
+      }
+    }
+  }
+}
