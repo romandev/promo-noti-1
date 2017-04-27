@@ -8,7 +8,7 @@
         "m.costco.com": null,
         "www.iherb.com": null
       },
-      "cooltime": "1",
+      "cooltime": "2",
       "n_repeat": "100",
       "introduction_page": "http://paytest.github.io/promo-noti/promotion_page/fallback_introduction_page.html"
     }
