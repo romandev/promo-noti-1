@@ -1,8 +1,8 @@
 [{
     "promoType": "INSTALL",
     "promoApps": "ALL",
-    "promoImg": "https://rewards.mpay.samsung.com/Install_PN.jpg",
-    "promoImgInline": "https://rewards.mpay.samsung.com/Install_Inline.jpg",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Install_PN.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Install_Inline.jpg",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
@@ -12,8 +12,8 @@
 }, {
     "promoType": "NEW-USER",
     "promoApps": "ALL",
-    "promoImg": "https://rewards.mpay.samsung.com/Newuser_PN.jpg",
-    "promoImgInline": "https://rewards.mpay.samsung.com/Newuser_Inline.jpg",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Newuser_PN.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Newuser_Inline.jpg",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -22,8 +22,8 @@
 }, {
     "promoType": "ADD-FIRST-CARD",
     "promoApps": "SBROWSER",
-    "promoImg": "https://rewards.mpay.samsung.com/Add1stcard_PN.jpg",
-    "promoImgInline": "https://rewards.mpay.samsung.com/Add1stcard_Inline.jpg",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Add1stcard_PN.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Add1stcard_Inline.jpg",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -32,8 +32,8 @@
 }, {
     "promoType": "ADD-CARD",
     "promoApps": "ALL",
-    "promoImg": "https://rewards.mpay.samsung.com/Addcard_PN.jpg",
-    "promoImgInline": "https://rewards.mpay.samsung.com/Addcard_Inline.jpg",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Addcard_PN.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Addcard_Inline.jpg",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -42,8 +42,8 @@
 }, {
     "promoType": "UPGRADE",
     "promoApps": "ALL",
-    "promoImg": "https://rewards.mpay.samsung.com/Upgrade_PN.jpg",
-    "promoImgInline": "https://rewards.mpay.samsung.com/Upgrade_Inline.jpg",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Upgrade_PN.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/Upgrade_Inline.jpg",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
