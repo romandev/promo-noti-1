@@ -1,0 +1,53 @@
+[{
+    "promoType": "INSTALL",
+    "promoApps": "ALL",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_push.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_inline_others.jpg",
+    "promoClickIntent": {
+        "intentType" : "ACTIVITY",
+        "action": "android.intent.action.VIEW",
+        "data": "https://play.google.com/store/apps/details?id=com.samsung.android.spay"
+    },
+    "isPromotionRunning": "false"
+}, {
+    "promoType": "NEW-USER",
+    "promoApps": "ALL",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_push.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_inline_first_card.jpg",
+    "promoClickIntent": {
+        "intentType" : "SERVICE",
+        "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
+    },
+    "isPromotionRunning": "false"
+}, {
+    "promoType": "ADD-FIRST-CARD",
+    "promoApps": "SBROWSER",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_push.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_inline_first_card.jpg",
+    "promoClickIntent": {
+        "intentType" : "SERVICE",
+        "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
+    },
+    "isPromotionRunning": "false"
+}, {
+    "promoType": "ADD-CARD",
+    "promoApps": "ALL",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_push.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_inline_others.jpg",
+    "promoClickIntent": {
+        "intentType" : "SERVICE",
+        "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
+    },
+    "isPromotionRunning": "false"
+}, {
+    "promoType": "UPGRADE",
+    "promoApps": "ALL",
+    "promoImg": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_push.jpg",
+    "promoImgInline": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_image_201705/platinum_inline_others.jpg",
+    "promoClickIntent": {
+        "intentType" : "ACTIVITY",
+        "action": "android.intent.action.VIEW",
+        "data": "samsungpay://launch?action=main"
+    },
+    "isPromotionRunning": "false"
+}]

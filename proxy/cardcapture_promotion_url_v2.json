@@ -2,13 +2,13 @@
   "country": {
     "us":{
       "g950":{
-        "all": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/promos-dream/promos.json"
+        "all": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_json/promo_dream.json"
       },
       "g955":{
-        "all": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/promos-dream/promos.json"
+        "all": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_json/promo_dream.json"
       },
       "all":{
-        "all": "https://s3.amazonaws.com/webpayments/samsung-pay-promo/promos-non-dream/promos.json"
+        "all": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_json/promo_non_dream.json"
       }
     }
   }
