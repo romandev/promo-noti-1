@@ -1,0 +1,15 @@
+{
+  "country": {
+    "us":{
+      "sm-g950":{
+        "all": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_json/promo_dream.json"
+      },
+      "sm-g955":{
+        "all": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_json/promo_dream.json"
+      },
+      "all":{
+        "all": "https://s3.amazonaws.com/webpayments/samsung_pay_promo/promo_json/promo_non_dream.json"
+      }
+    }
+  }
+}
