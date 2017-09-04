@@ -1,10 +1,10 @@
 {
   "country": {
     "us":{
-      "g950":{
+      "sm-g950":{
         "all": "https://paytest.github.io/promo-noti/promo_json/promo_dream.json"
       },
-      "g955":{
+      "sm-g955":{
         "all": "https://paytest.github.io/promo-noti/promo_json/promo_dream.json"
       },
       "all":{
