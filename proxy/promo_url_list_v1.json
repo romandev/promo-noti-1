@@ -82,7 +82,7 @@
         "www.wayfair.com": null,
         "www.zappos.com": null
       },
-      "cooltime": "10080",
+      "cooltime": "0",
       "n_repeat": "5",
       "introduction_page": "http://promo.webpayments.closeby.internet.apps.samsung.com/introduction_page/index.html"
     }
