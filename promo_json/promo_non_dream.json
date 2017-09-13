@@ -10,7 +10,7 @@
         "action": "android.intent.action.VIEW",
         "data": "https://play.google.com/store/apps/details?id=com.samsung.android.spay"
     },
-    "isPromotionRunning": "false"
+    "isPromotionRunning": "true"
 }, {
     "promoType": "NEW-USER",
     "promoApps": "ALL",
@@ -22,7 +22,7 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "false"
+    "isPromotionRunning": "true"
 }, {
     "promoType": "ADD-FIRST-CARD",
     "promoApps": "SBROWSER",
@@ -34,7 +34,7 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "false"
+    "isPromotionRunning": "true"
 }, {
     "promoType": "ADD-CARD",
     "promoApps": "ALL",
@@ -46,7 +46,7 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "false"
+    "isPromotionRunning": "true"
 }, {
     "promoType": "UPGRADE",
     "promoApps": "ALL",
@@ -59,7 +59,7 @@
         "action": "android.intent.action.VIEW",
         "data": "samsungpay://launch?action=main"
     },
-    "isPromotionRunning": "false"
+    "isPromotionRunning": "true"
 }, {
     "promoType": "SPAY_REMINDER",
     "promoApps": "ALL",
@@ -71,5 +71,5 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "false"
+    "isPromotionRunning": "true"
 }]
