@@ -8,7 +8,7 @@
         "all": "https://paytest.github.io/promo-noti/promo_json/promo_dream.json"
       },
       "all":{
-        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/promo_non_dream.json"
+        "all": "https://paytest.github.io/promo-noti/promo_json/promo_non_dream.json"
       }
     }
   }
