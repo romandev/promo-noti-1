@@ -2,6 +2,7 @@
   "country": {
     "us": {
       "url_list": {
+        "m.kmart.com": null,
       },
       "cooltime": "0",
       "n_repeat": "5",
