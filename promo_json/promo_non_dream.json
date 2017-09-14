@@ -3,6 +3,8 @@
     "promoApps": "ALL",
     "promoTitle": "Activate Card in Samsung Pay",
     "promoContent": "Claim 500 points for activating your card",
+    "promoTitleForNoti": "hello",
+    "promoContentForNoti": "world",
     "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/default_push.jpg",
     "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/default_inline.png",
     "promoClickIntent": {
@@ -16,6 +18,8 @@
     "promoApps": "ALL",
     "promoTitle": "Activate Card in Samsung Pay",
     "promoContent": "Claim 500 points for activating your card",
+    "promoTitleForNoti": "hello",
+    "promoContentForNoti": "world",
     "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/500pts_push.jpg",
     "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/500pts_inline_first_card.jpg",
     "promoClickIntent": {
@@ -28,6 +32,8 @@
     "promoApps": "SBROWSER",
     "promoTitle": "Activate Card in Samsung Pay",
     "promoContent": "Claim 500 points for activating your card",
+    "promoTitleForNoti": "hello",
+    "promoContentForNoti": "world",
     "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/500pts_push.jpg",
     "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/500pts_inline_first_card.jpg",
     "promoClickIntent": {
@@ -40,6 +46,8 @@
     "promoApps": "ALL",
     "promoTitle": "Activate your saved card",
     "promoContent": "Rewards for every purchase",
+    "promoTitleForNoti": "hello",
+    "promoContentForNoti": "world",
     "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/default_push.jpg",
     "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/default_inline.png",
     "promoClickIntent": {
@@ -52,6 +60,8 @@
     "promoApps": "ALL",
     "promoTitle": "Activate Card in Samsung Pay",
     "promoContent": "Claim 500 points for activating your card",
+    "promoTitleForNoti": "hello",
+    "promoContentForNoti": "world",
     "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/default_push.jpg",
     "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201705/default_inline.png",
     "promoClickIntent": {
@@ -65,6 +75,8 @@
     "promoApps": "ALL",
     "promoTitle": "Activate your saved card",
     "promoContent": "Claim 500 points for activating %s card",
+    "promoTitleForNoti": "hello",
+    "promoContentForNoti": "world",
     "promoImg": "",
     "promoImgInline": "",
     "promoClickIntent": {
