@@ -84,7 +84,7 @@
       },
       "cooltime": "4320",
       "n_repeat": "1",
-      "introduction_page": "https://smps-resource.s3.amazonaws.com/spt/us/system/s3browsing/prd/samsunginternetrewardsv2.html"
+      "introduction_page": "http://promo.webpayments.closeby.internet.apps.samsung.com/introduction_page/index.html"
     }
   }
 }
