@@ -2,7 +2,7 @@
   "country": {
     "us": {
       "all": {
-        "all": "http://payment.closeby.internet.apps.samsung.com"
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/promo_non_great.json"
       }
     }
   }
