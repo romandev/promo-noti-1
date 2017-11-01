@@ -5,14 +5,14 @@
     "promoContent": "Claim 1000 points for activating your card",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_push_image.jpg",
+    "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_push_image.jpg",
     "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_inline_image.png",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
         "data": "https://play.google.com/store/apps/details?id=com.samsung.android.spay"
     },
-    "isPromotionRunning": "true"
+    "isPromotionRunning": "false"
 }, {
     "promoType": "NEW-USER",
     "promoApps": "ALL",
@@ -26,7 +26,7 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "true"
+    "isPromotionRunning": "false"
 }, {
     "promoType": "ADD-FIRST-CARD",
     "promoApps": "SBROWSER",
@@ -40,7 +40,7 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "true"
+    "isPromotionRunning": "false"
 }, {
     "promoType": "ADD-CARD",
     "promoApps": "ALL",
@@ -54,7 +54,7 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "true"
+    "isPromotionRunning": "false"
 }, {
     "promoType": "UPGRADE",
     "promoApps": "ALL",
@@ -69,7 +69,7 @@
         "action": "android.intent.action.VIEW",
         "data": "samsungpay://launch?action=main"
     },
-    "isPromotionRunning": "true"
+    "isPromotionRunning": "false"
 }, {
     "promoType": "SPAY_REMINDER",
     "promoApps": "ALL",
@@ -83,5 +83,5 @@
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
     },
-    "isPromotionRunning": "true"
+    "isPromotionRunning": "false"
 }]
