@@ -5,8 +5,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_push_image.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_inline_image.png",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
@@ -20,8 +20,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_push_image.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_inline_image.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -34,8 +34,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_push_image.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_inline_image.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -48,8 +48,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_push_image.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_inline_image.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -62,8 +62,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_image_201709/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_push_image.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/uk/sp_card_capture_default_inline_image.png",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
