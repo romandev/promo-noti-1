@@ -1,11 +1,80 @@
 {
   "country": {
-    "us": {
-      "sm-n950": {
-        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/promo_great.json"
-      },
+    "ae": {
       "all": {
-        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/promo_non_great.json"
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/ae/promo_default.json"
+      }
+    },
+
+    "au": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/au/promo_default.json"
+      }
+    },
+
+    "ch": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/ch/promo_default.json"
+      }
+    },
+
+    "hk": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/hk/promo_default.json"
+      }
+    },
+
+    "in": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/in/promo_default.json"
+      }
+    },
+
+    "my": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/my/promo_default.json"
+      }
+    },
+
+    "mx": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/mx/promo_default.json"
+      }
+    },
+
+    "sg": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/sg/promo_default.json"
+      }
+    },
+
+    "th": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/th/promo_default.json"
+      }
+    },
+
+    "tw": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/tw/promo_default.json"
+      }
+    },
+
+    "uk": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/uk/promo_default.json"
+      }
+    },
+
+    "us": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/us/promo_default.json"
+      }
+    }
+
+    "vn": {
+      "all": {
+        "all": "http://promo.webpayments.closeby.internet.apps.samsung.com/promo_json/vn/promo_default.json"
       }
     }
   }
