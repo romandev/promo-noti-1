@@ -67,6 +67,7 @@
     },
 
     "us": {
+      "min_version": "260000000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/us/promo_default.json"
       }
